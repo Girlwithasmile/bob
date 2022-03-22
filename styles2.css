@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 64.5%;
+}
+body{ 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+
+    background-color: #E0F4F7; 
+    width: 95%;
+    height: 90vh;
+    font-size: 1.6rem;
+    margin-left: 2.5%;
+    margin-top: 5vh;
+    border: 5px dashed #384547;
+    box-sizing: border-box;
+    font-family: Ubuntu, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    width: 50%;
+    height: 75%;
+    background: #CAE7EA;
+    border-radius: 35px;
+}
+.form-group{
+    margin-left: 12.5%;
+    margin-top: -2%;
+    text-align: left;
+    font-family: 'Roboto';
+}
+.name{
+  
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    
+    position: absolute;
+    width: 569px;
+    height: 48px;
+    left: 435px;
+    top: 501px;
+    
+    background: #FFFFFF;
+
+}
